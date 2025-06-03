@@ -1,0 +1,96 @@
+# Deutschlandatlas Indikatoren Übersicht
+
+## 🏠 Gemeindeebene (GEM)
+
+### Deutschlandatlas_GEM1221
+| Spalte         | Bedeutung                                              |
+|----------------|--------------------------------------------------------|
+| v_breitb50     | Breitbandversorgung ≥ 50 Mbit/s (% der Haushalte)      |
+| v_breitb1000   | Breitbandversorgung ≥ 1000 Mbit/s (Gigabit)            |
+| p_nelade       | Erreichbarkeit öffentlicher Normalladestationen (min)  |
+| p_selade       | Erreichbarkeit öffentlicher Schnellladestationen (min) |
+| p_harzt        | Erreichbarkeit nächstgelegener Hausarztpraxis (min)    |
+
+### Deutschlandatlas_GEM1220
+| Spalte | Bedeutung                                 |
+|--------|-------------------------------------------|
+| p_apo  | Erreichbarkeit nächstgelegener Apotheke (min) |
+
+### Deutschlandatlas_GEM1218
+| Spalte    | Bedeutung                                         |
+|-----------|---------------------------------------------------|
+| luftrtng  | Luftreinheit (z. B. Feinstaubbelastung)           |
+| p_poli    | Erreichbarkeit nächster Polizeistandort (min)     |
+
+---
+
+## 🏛️ Kreisebene (KRS)
+
+### Deutschlandatlas_KRS1222
+| Spalte                        | Bedeutung                                                       |
+|-------------------------------|-----------------------------------------------------------------|
+| fl_suv                        | Fläche für Siedlung und Verkehr (%)                             |
+| fl_landw                      | Landwirtschaftlich genutzte Fläche (%)                          |
+| fl_wald                       | Waldfläche (%)                                                  |
+| bev_binw                      | Anteil binationaler Ehen                                        |
+| bev_ausw                      | Anteil Ausländer*innen                                          |
+| ko_kasskred                   | Kommunale Kassenkredite je Einwohner (Euro)                     |
+| bev_u18, bev_18_65, bev_ue65  | Altersverteilung: unter 18, 18–65, über 65                      |
+| mitgl_sportv, ew_sportv       | Mitglieder in Sportvereinen je 1.000 Einwohner                  |
+| preis_miet                    | Durchschnittlicher Mietpreis (€/m²)                             |
+| wohn_eigen                    | Anteil selbstgenutztes Wohneigentum                             |
+| wohn_leer                     | Leerstandsquote (%)                                             |
+| wohn_EZFH, wohn_MFH           | Anteil Ein-/Zweifamilienhäuser & Mehrfamilienhäuser             |
+| heiz_wohn_best, heiz_wohn     | Heizsysteme im Bestand und Neubau                               |
+| bquali_unifh, bquali_mabschl, bquali_oabschl | Bildungsabschlüsse (hoch, mittel, ohne)          |
+| erw_wachs                     | Erwerbstätigenquote der 25–64-Jährigen                          |
+| erw_mini, erw_minineben       | Minijobber insgesamt & als Nebenjob                             |
+| alq                           | Arbeitslosenquote                                               |
+| schulden                      | Kommunale Schulden je Einwohner (Euro)                          |
+| sozsich                       | Empfänger sozialer Sicherung (%)                                |
+| auto                          | Kfz-Dichte (PKW je 1.000 Einwohner)                             |
+| v_harzt, v_karzt              | Erreichbarkeit Haus-/Kinderarzt (min)                           |
+| schule_oabschl                | Anteil Schüler*innen ohne Schulabschluss                        |
+| kbetr_u3, kbetr_ue3, kbetr_ue6| Kita-Betreuungsquote nach Altersgruppen                         |
+| kinder_bg                     | Kinder in Bedarfsgemeinschaften (%)                             |
+| straft, einbr                 | Straftaten & Einbrüche je 100.000 EW                            |
+
+### Deutschlandatlas_KRS1221
+| Spalte           | Bedeutung                                            |
+|------------------|------------------------------------------------------|
+| wahl_beteil      | Wahlbeteiligung (in %)                               |
+| preis_baul       | Baulandpreise (€/m²)                                 |
+| erw_bip          | Bruttoinlandsprodukt pro Erwerbstätigen              |
+| hh_veink         | Verfügbares Einkommen je Haushalt                    |
+| elterng_v        | Anteil von Alleinerziehenden                         |
+| grusi            | Empfänger von Grundsicherung im Alter                |
+| elade            | Anzahl öffentlicher E-Ladestationen                  |
+| eauto            | Anzahl zugelassener E-Autos je 1.000 Einwohner       |
+| pfl_ambu, pfl_stat, pfl_geld | Pflegeformen: ambulant, stationär, Pflegegeldempfang |
+| kbtr_pers        | Personal in Kindertageseinrichtungen                 |
+
+### Deutschlandatlas_KRS1220
+| Spalte      | Bedeutung                        |
+|-------------|----------------------------------|
+| erw_vol     | Erwerbsbeteiligung von Frauen    |
+| teilz_insg  | Teilzeitquote insgesamt          |
+| teilz_w     | Teilzeitquote Frauen             |
+| teilz_m     | Teilzeitquote Männer             |
+
+---
+
+## 🏢 Verbandsgemeinden (VBGEM)
+
+### Deutschlandatlas_VBGEM1222
+| Spalte           | Bedeutung                                              |
+|------------------|--------------------------------------------------------|
+| preis_miet_best  | Durchschnittliche Bestandsmiete (€/m²)                 |
+| reg_energie      | Anteil regenerativer Energien (z. B. Stromerzeugung)   |
+| pendel           | Pendlersaldo (Zahl der Ein- vs. Auspendler)            |
+
+### Deutschlandatlas_VBGEM1219
+| Spalte         | Bedeutung                                                                |
+|----------------|--------------------------------------------------------------------------|
+| oenv           | Anteil öffentlicher Verkehrsmittel am Modal Split                        |
+| p_ozmz_miv     | Erreichbarkeit von Oberzentren mit motorisiertem Individualverkehr (min) |
+| p_ozmz_oev     | Erreichbarkeit von Oberzentren mit ÖPNV (min)                            |
